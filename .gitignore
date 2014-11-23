@@ -2,7 +2,7 @@
 .DS_Store
 
 #ディレクトリ
-/grampixel
+/tmp
 
 #ワイルドカード
 *.log
